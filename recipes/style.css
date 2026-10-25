@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(237, 233, 233);
+}
+
+
+
+.page_header, .home_link, h2 {
+    background-color: rgb(184, 179, 179);
+    margin-bottom: 10px;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.home_link {
+    display: block;
+    margin-top: -10px;
+}
+
+.recipe_card {
+    background-color: rgb(227, 221, 221);
+    border: 4px black solid;
+}
+
+.recipe_card p {
+    text-align: center;
+}
+
+.recipe_card h2 {
+    margin-top: 0px;
+}
+
+img {
+    display: block;
+    margin: auto auto;
+}
