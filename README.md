@@ -7,7 +7,7 @@ No problems encountered at this stage.
 
 Learning how to use Git and WSL.
 
-Post-edit:
+Post-edit (10/21):
 
 I dragged this project on for quite a bit too long, being uneager to restart work I just did a few weeks ago.
 
