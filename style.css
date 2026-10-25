@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(237, 233, 233);
+}
+
+.page_header {
+    background-color: rgb(184, 179, 179);
+    margin: 10px 10px;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+ul {
+    background-color: rgb(227, 221, 221);
+    margin: 10px 10px;
+    padding: 8px;
+}
+
+li {
+    background-color:rgb(237, 233, 233);
+    list-style-type: none;
+    padding: 0px 10px 10px 10px;
+}
